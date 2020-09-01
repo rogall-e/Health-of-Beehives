@@ -35,4 +35,5 @@ Implementing an Object Detection Model in GCP to predict live stream images of b
 - Bee_images_EDA_and_Basemodel.ipynb : Jupyter Notebook with Exploratory Data Analysis (EDA), python code, visualizations and documentation of the Honey Bee Images Classification
 - Bee_Hive_EDA.ipynb : Jupyter Notebook with Exploratory Data Analysis (EDA), python code, visualizations and documentation of the Data of Beehives (Temperature, Humidity, Weight, Flow) 
 - Health of Beehives.pdf : Presentation of the results of the Data Visualization
+- Dash_App.ipynb: Plotly Dash App with the integrated GCP-Model to detect Varroa Mites on Bee Images
 - plots : Folder with images of the plots
